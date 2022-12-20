@@ -8,3 +8,7 @@ This is a test repo for github hands on
 ### Qudus
 
 ##### Mikky
+
+**This is bold text**
+
+~~This was mistaken text~~
