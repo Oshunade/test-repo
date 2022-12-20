@@ -12,3 +12,5 @@ This is a test repo for github hands on
 **This is bold text**
 
 ~~This was mistaken text~~
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
