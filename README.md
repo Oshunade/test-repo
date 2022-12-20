@@ -9,6 +9,18 @@ This is a test repo for github hands on
 
 ##### Mikky
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
+
 **This is bold text**
 
 ~~This was mistaken text~~
